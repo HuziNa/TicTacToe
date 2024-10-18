@@ -4,6 +4,7 @@
 using namespace std;
 
 
+// this is a tictactoe game 
 bool num = true;
 // Function to display the board
 void displayboard(char board[3][3]) {
